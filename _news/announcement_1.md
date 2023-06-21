@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be joining the [University of Illinois at Urbana-Champaign](https://cs.illinois.edu/) as an assistant professor, starting Fall 2024.
+I will join the [University of Illinois at Urbana-Champaign](https://cs.illinois.edu/) as an assistant professor, starting Fall 2024.
