@@ -16,9 +16,21 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a Young Investigator (postdoc) at the [Allen Institue for AI]("https://allenai.org/") on the Semantic Scholar team. I am also an incoming assistant professor at the [University of Illinois at Urbana-Champaign]("https://cs.illinois.edu/), starting Fall 2024. I recently finished my PhD at the Paul G. Allen School for Computer Science and Engineering at the University of Washington, advised by [Katharina Reinecke](https://homes.cs.washington.edu/~reinecke/) and [Noah Smith](https://homes.cs.washington.edu/~nasmith/). I study ways of making language more approachable to different readers, and I build reading tools to make this flexbility automatic. I refer to this work as [language as design](assets/pdf/AugustDissertation.pdf). I am currently building reading tools to make scientific language more approachable, such as by automatically identifying writing strategies used in science blogs and articles to engage different audiences. In the past I have also examined how language styles (e.g., formality vs. informality, types of framing) influence user behavior in online experiments. I explored these effects of language style through online studies on [LabintheWild](http://labinthewild.org/).
+I am a Young Investigator (postdoc) at the [Allen Institute for AI]("https://allenai.org/") on the Semantic Scholar team and an incoming assistant professor at the [University of Illinois at Urbana-Champaign]("https://cs.illinois.edu/), starting Fall 2024. I recently finished my PhD at the Paul G. Allen School for Computer Science and Engineering at the University of Washington, advised by [Katharina Reinecke](https://homes.cs.washington.edu/~reinecke/) and [Noah Smith](https://homes.cs.washington.edu/~nasmith/). I study ways to adapt language styles to different people and I build tools to make language adaptation automatic. I refer to this work as [language as design](assets/pdf/AugustDissertation.pdf) because I see language as the ubiquitous interface we use to communicate and my work as finding new ways of designing language better for different people. The long term goal of my research is to improve our communication with one another and with technology. 
+
 
 My CV: [PDF](assets/pdf/August_CV.pdf).
+
+<!-- ## Interested in working with me?  -->
+
+**Ph.D. student applicants**: I will be taking on new students in Fall 2024! If you are interest in HCI, NLP, communication, or reading and writing tools, I encourage you to apply to UIUC Computer Science and mention me in your application. 
+
+<!-- I love working with motivated students at the intersection of HCI and NLP. My focus is on human-centered problems (e.g., how does the formality or complexity of text impact users differently?), and so I predominantly draw on and contribute to HCI research. I also often contribute to NLP research because my work uses computational methods to quantify and adapt language. Working in my group will always include a focus on a human problem, whether we are running experiments, building new interfaces, or training new models. 
+
+If you are interested in working with me, instead of emailing me please fill out the interest survey below. This is the best way of getting in touch with me. -->
+
+
+
 
 <!-- Originally intending a Cognitive Science major, but finding myself in a different 'CS' discipline, I've been drawn to my current work through a mixture of Psychology, Design and HCI research at Tufts University, where I worked with Professors <a href="https://www.cs.tufts.edu/~jacob/" target="_blank"> Rob Jacob</a>,<a href="http://www.cs.tufts.edu/~remco/" target="_blank"> Remco Chang</a>, <a href="https://ase.tufts.edu/psychology/people/thomas/" target="_blank">Ayanna Thomas</a>, and<a href="https://engineering.tufts.edu/people/faculty/ronald-lasser" target="_blank"> Ron Lasser</a>.  -->
 
