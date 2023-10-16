@@ -3,7 +3,7 @@ layout: page
 title: students
 permalink: /students/
 description: a page describing the amazing people I work with
-nav: false
+nav: true
 nav_order: 2
 horizontal: false
 ---
