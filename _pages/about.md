@@ -23,11 +23,11 @@ My CV: [PDF](assets/pdf/August_CV.pdf).
 
 #### Interested in working with me? 
 
+If you are interested in working with me, instead of emailing me please fill out [this interest survey](https://forms.gle/5h8HPEsdm6DBsLwy9). This is the best way of getting in touch with me.
+
+
 **Ph.D. student applicants**: I will be taking on new students in Fall 2024! If you are interest in HCI, NLP, communication, or reading and writing tools, I encourage you to apply to UIUC Computer Science and mention me in your application. 
 
-I love working with motivated students at the intersection of HCI and NLP. My focus is on human-centered problems (e.g., how does the formality or complexity of text impact users differently?), and so I predominantly draw on and contribute to HCI research. I also often contribute to NLP research because my work uses computational methods to quantify and adapt language. Working in my group will always include a focus on a human problem, whether we are running experiments, building new interfaces, or training new models. 
-
-If you are interested in working with me, instead of emailing me please fill out [this interest survey](https://forms.gle/5h8HPEsdm6DBsLwy9). This is the best way of getting in touch with me.
 
 
 
