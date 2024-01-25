@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Students
+title: students
 permalink: /students/
 description: 
 nav: true
