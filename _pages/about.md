@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Young Investigator, <a href="https://allenai.org/" target="blank"> Allen Institue for AI </a>
+subtitle: Assistant Professor, School of Computing and Data Science, University of Illinois Urbana Champaign
 
 profile:
   align: right
@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Young Investigator (postdoc) at the [Allen Institute for AI]("https://allenai.org/") on the Semantic Scholar team and an incoming assistant professor at the [University of Illinois at Urbana-Champaign]("https://cs.illinois.edu/), starting Fall 2024. I recently finished my PhD at the Paul G. Allen School for Computer Science and Engineering at the University of Washington, advised by [Katharina Reinecke](https://homes.cs.washington.edu/~reinecke/) and [Noah Smith](https://homes.cs.washington.edu/~nasmith/). I study ways to adapt language styles to different people and I build tools to make language adaptation automatic. I refer to this work as [language as design](assets/pdf/AugustDissertation.pdf) because I see language as the ubiquitous interface we use to communicate and my work as finding new ways of designing language better for different people. The long term goal of my research is to improve our communication with one another and with technology. 
+I am an assistant professor at the [University of Illinois at Urbana-Champaign]("https://cs.illinois.edu/), starting Fall 2024. I recently finished my PhD at the Paul G. Allen School for Computer Science and Engineering at the University of Washington, advised by [Katharina Reinecke](https://homes.cs.washington.edu/~reinecke/) and [Noah Smith](https://homes.cs.washington.edu/~nasmith/). I study ways to adapt language styles to different people and I build tools to make language adaptation automatic. I refer to this work as [language as design](assets/pdf/AugustDissertation.pdf) because I see language as the ubiquitous interface we use to communicate and my work as finding new ways of designing language better for different people. The long term goal of my research is to improve our communication with one another and with technology. 
 
 
 My CV: [PDF](assets/pdf/August_CV.pdf).
@@ -26,7 +26,7 @@ My CV: [PDF](assets/pdf/August_CV.pdf).
 If you are interested in working with me, instead of emailing me please fill out [this interest survey](https://forms.gle/5h8HPEsdm6DBsLwy9). This is the best way of getting in touch with me.
 
 
-**Ph.D. student applicants**: I will be taking on new students in Fall 2024! If you are interest in HCI, NLP, communication, or reading and writing tools, I encourage you to apply to UIUC Computer Science and mention me in your application. 
+**Ph.D. student applicants**: Applications for Fall 2024 are closed. I may be taking new students for Fall 2025, please fill out the interest form and apply to  UIUC CS if you are interested in working with me.
 
 
 

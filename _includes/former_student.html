@@ -1,0 +1,4 @@
+<div>
+    <a {% if include.href %}href="{{ include.href }}"{% else %}href="#"{% endif %} > <h5 class="mb-0">{{ include.name }}</h5> </a>
+    <p>{{ include.time }}, {{ include.position }} {% if include.next_position %} &rarr; {{ include.next_position }} {% endif %} </p>
+</div>

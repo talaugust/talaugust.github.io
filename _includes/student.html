@@ -1,0 +1,8 @@
+<div class="col-sm-3 mt-3 mt-md-0">
+    <a {% if include.href %}href="{{ include.href }}"{% else %}href="#"{% endif %} >
+        {% include figure.html path=include.img_path title=include.img_title class=include.img_class %}
+        <p class="m-0"> <strong> {{ include.name }} </strong> </p>
+        <p class="m-0"> <strong> {{ include.position }}</strong> </p>
+        <p class="m-0"> {{ include.time }} </p>
+    </a>
+</div>
