@@ -36,7 +36,7 @@ I love working with motivated students at the intersection of HCI and NLP. My fo
 
 ## Students
 
-I work with a wonderful set of students at UIUC, and beyond. 
+I work with a wonderful set of students at UIUC and beyond. 
 
 
 <div class="lab">
@@ -45,7 +45,7 @@ I work with a wonderful set of students at UIUC, and beyond.
 
         {% include student.html name="Yiren Liu" href="https://www.linkedin.com/in/yiren-liu-478730190" position="PhD Student, iSchool" time="2024-" img_path="assets/img/Yiren.jpg" img_title="Yiren" img_class="img-fluid rounded z-depth-1" %}
 
-        {% include student.html name="Yijun Liu" position="PhD Student, CS" time="2024-" img_path="assets/img/Yijun.jpg" img_title="Yijun" img_class="img-fluid rounded z-depth-1" %}
+        {% include student.html name="Yijun Liu" position="PhD Student, CS" time="2024-" img_path="assets/img/yijun.jpg" img_title="Yijun" img_class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
