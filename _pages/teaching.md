@@ -2,11 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
+description: Classes I teach.
+nav: True
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# CS598: Language, Interfaces, and Communication
+This graduate special topics course covers recent advances in computing for augmenting human language. We will cover foundational sociolinguistic theories of communication and investigate new advances in HCI, NLP, and AI that aim to improve how we communicate with one another through language. We will learn how to identify when language will impact behavior through empirical studies, and how to design, build and evaluate intelligent communication tools.
 
-Organize your courses by years, topics, or universities, however you like!
+[Course Website](https://talaugust.github.io/CS598LFall2024/)
