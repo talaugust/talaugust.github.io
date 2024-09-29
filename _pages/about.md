@@ -26,7 +26,7 @@ My CV: [PDF](assets/pdf/August_CV.pdf).
 If you are interested in working with me, instead of emailing me please fill out [this interest survey](https://forms.gle/5h8HPEsdm6DBsLwy9). This is the best way of getting in touch with me.
 
 
-**Ph.D. student applicants**: Applications for Fall 2024 are closed. I may be taking new students for Fall 2025, please fill out the interest form and apply to  UIUC CS if you are interested in working with me.
+**Ph.D. student applicants**: I will be recruiting 1 to 2 students for Fall 2025, please fill out the interest form and apply to UIUC CS if you are interested in working with me.
 
 
 
