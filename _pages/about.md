@@ -16,17 +16,20 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an assistant professor at the [University of Illinois at Urbana-Champaign]("https://cs.illinois.edu/), starting Fall 2024. I recently finished my PhD at the Paul G. Allen School for Computer Science and Engineering at the University of Washington, advised by [Katharina Reinecke](https://homes.cs.washington.edu/~reinecke/) and [Noah Smith](https://homes.cs.washington.edu/~nasmith/). I study ways to adapt language styles to different people and I build tools to make language adaptation automatic. I refer to this work as [language as design](assets/pdf/AugustDissertation.pdf) because I see language as the ubiquitous interface we use to communicate and my work as finding new ways of designing language better for different people. The long term goal of my research is to improve our communication with one another and with technology. 
+I am an assistant professor at the [University of Illinois at Urbana-Champaign]("https://cs.illinois.edu/). I study how to adapt language to different audiences, with a focus on knowledge intensive domains like science, health and legal communication. I conduct empirical anlyses to study how changes in language will effect different audiences, and I build intelligent reading and writing systems fo augmenting our language in new ways. The long term goal of my research is to improve our communication with---and understanding of---one another through technology. 
 
 
-My CV: [PDF](assets/pdf/August_CV.pdf).
+I previously was a Young Investigator at the [Allen Institute for AI](https://allenai.org/). I received my PhD at the Paul G. Allen School for Computer Science and Engineering at the University of Washington, advised by [Katharina Reinecke](https://homes.cs.washington.edu/~reinecke/) and [Noah Smith](https://homes.cs.washington.edu/~nasmith/).  
+
+
+My CV: [PDF](assets/pdf/August_CV_2024-3.pdf).
 
 #### Interested in working with me? 
 
-If you are interested in working with me, instead of emailing me please fill out [this interest survey](https://forms.gle/5h8HPEsdm6DBsLwy9). This is the best way of getting in touch with me.
+If you are interested in working with me, instead of emailing me please fill out [this interest survey](https://forms.gle/5h8HPEsdm6DBsLwy9). As much as I would like to, I rarely have time to respond to emails from prospective studies. The interest form is the best way of getting in touch with me.
 
 
-**Ph.D. student applicants**: I will be recruiting 1 to 2 students for Fall 2025, please fill out the interest form and apply to UIUC CS if you are interested in working with me.
+**Ph.D. student applicants**: I will be recruiting 1 to 2 students for Fall 2025, please fill out the interest form, apply to UIUC CS, and mention me in your application if you are interested in working with me.
 
 
 
