@@ -49,7 +49,7 @@ I work with a wonderful set of students at UIUC and beyond.
 
         {% include student.html name="Yifan Song" href="https://www.linkedin.com/in/yifan-song-osucmuuiuc/" position="PhD Student, CS" time="2024-" img_path="assets/img/7.jpg" img_title="Yijun" img_class="img-fluid rounded z-depth-1" %}
 
-        {% include student.html name="Sneha Sundar" href="https://snehasund.github.io/" position="Undergraduate, CS" time="2024-" img_path="assets/img/SnehaSundar.jpg" img_title="Sneha" img_class="img-fluid rounded z-depth-1" %}
+        {% include student.html name="Sneha Sundar" href="https://snehasund.github.io/" position="Undergraduate, CS" time="2024-" img_path="assets/img/SnehaSundar.jpeg" img_title="Sneha" img_class="img-fluid rounded z-depth-1" %}
 
         {% include student.html name="Leo Luo" href="https://tingfengluo.github.io/" position="Undergraduate, CS" time="2024-" img_path="assets/img/LeoLuo.jpg" img_title="Leo" img_class="img-fluid rounded z-depth-1" %}
 
