@@ -22,7 +22,7 @@ I am an assistant professor at the [University of Illinois at Urbana-Champaign](
 I previously was a Young Investigator at the [Allen Institute for AI](https://allenai.org/). I received my PhD at the Paul G. Allen School for Computer Science and Engineering at the University of Washington, advised by [Katharina Reinecke](https://homes.cs.washington.edu/~reinecke/) and [Noah Smith](https://homes.cs.washington.edu/~nasmith/).  
 
 
-My CV: [PDF](assets/pdf/August_CV_2024-3.pdf).
+My CV: [PDF](assets/pdf/August_CV.pdf).
 
 #### Interested in working with me? 
 
