@@ -23,6 +23,8 @@ If you are interested in working with me, instead of emailing me please fill out
 
 
 
+
+
 <!-- **Ph.D. applicants**: I will be taking new students in Fall 2024! If you are interested in HCI, NLP, communication, or reading and writing tools, I encourage you to apply for a PhD at the [UIUC Department of Computer Science](https://cs.illinois.edu/admissions/graduate/degree-program-options) and mention me in your application. 
 
 I love working with motivated students at the intersection of HCI and NLP. My focus is on human-centered problems and so I predominantly contribute to HCI research. I also often contribute to NLP research because my work uses computational methods to quantify and adapt language. Working in my group will always include a focus on a human problem, whether we are running experiments, building new interfaces, or training new models. Some examples of ongoing projects and future plans: 
@@ -53,7 +55,7 @@ I work with a wonderful set of students at UIUC and beyond.
 
         {% include student.html name="Indu Panigrahi" href="https://ind1010.github.io/" position="PhD Student, CS" time="2025-" img_path="assets/img/indu.jpg" img_title="Indu" img_class="img-fluid rounded z-depth-1" %}
         
-        {% include student.html name="Yifan Song" href="https://www.linkedin.com/in/yifan-song-osucmuuiuc/" position="PhD Student, CS" time="2024-" img_path="assets/img/yifan.jpg" img_title="Yijun" img_class="img-fluid rounded z-depth-1" %}
+        {% include student.html name="Yifan Song" href="https://www.linkedin.com/in/yifan-song-osucmuuiuc/" position="PhD Student, CS" time="2024-" img_path="assets/img/yifan2.jpg" img_title="Yijun" img_class="img-fluid rounded z-depth-1" %}
 
         {% include student.html name="Lechen Zhang" href="https://leczhang.com/" position="PhD Student, CS" time="2025-" img_path="assets/img/lechen.jpg" img_title="Lechen" img_class="img-fluid rounded z-depth-1" %}
 
