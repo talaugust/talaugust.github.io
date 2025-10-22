@@ -2,7 +2,11 @@
     <a {% if include.href %}href="{{ include.href }}"{% else %}href="#"{% endif %} >
         {% include figure.html path=include.img_path title=include.img_title class=include.img_class %}
         <p class="m-0"> <strong> {{ include.name }} </strong> </p>
-        <p class="m-0"> <strong> {{ include.position }}</strong> </p>
-        <p class="m-0"> {{ include.time }} </p>
     </a>
+        <p class="m-0"> <strong> {{ include.position }}</strong> </p>
+        {% if include.co_advised %}
+            <p class="m-0"> Co-advised with <a {% if include.co_advised_href %}href="{{ include.co_advised_href }}"{% else %}href="#"{% endif %}> include.co_advised </a> </p>
+        {% endif %}
+        <p class="m-0"> {{ include.time }} </p>
+    
 </div>

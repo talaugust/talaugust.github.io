@@ -43,19 +43,19 @@ I work with a wonderful set of students at UIUC and beyond.
 
 <div class="lab">
     <div class="row">
-        
-        {% include student.html name="Ziheng Huang" href="https://www.linkedin.com/in/ziheng-huang-52619a1a5/" position="PhD Student, CS" time="2024-" img_path="assets/img/Ziheng.jpg" img_title="Ziheng" img_class="img-fluid rounded z-depth-1" %}
+        co_advised_href
+        {% include student.html name="Ziheng Huang" href="https://www.linkedin.com/in/ziheng-huang-52619a1a5/" position="PhD Student, CS" time="2024-"  co_advised="Hari Sundaram" co_advised_href="https://sundaram.cs.illinois.edu/" img_path="assets/img/Ziheng.jpg" img_title="Ziheng" img_class="img-fluid rounded z-depth-1" %}
 
-        {% include student.html name="Michelle Huang" href="https://mhuang412.github.io/" position="PhD Student, CS" time="2025-" img_path="assets/img/michelle.jpg" img_title="Michelle" img_class="img-fluid rounded z-depth-1" %}
+        {% include student.html name="Michelle Huang" href="https://mhuang412.github.io/" position="PhD Student, CS" time="2025-" img_path="assets/img/michelle.jpg" co_advised="Koustuv Saha" co_advised_href="https://koustuv.com/" img_title="Michelle" img_class="img-fluid rounded z-depth-1" %}
 
 
-        {% include student.html name="Yiren Liu" href="https://www.linkedin.com/in/yiren-liu-478730190" position="PhD Student, iSchool" time="2024-" img_path="assets/img/Yiren.jpg" img_title="Yiren" img_class="img-fluid rounded z-depth-1" %}
+        {% include student.html name="Yiren Liu" href="https://www.linkedin.com/in/yiren-liu-478730190" position="PhD Student, iSchool" time="2024-" img_path="assets/img/Yiren.jpg" co_advised="Yun Huang" co_advised_href="https://yunhuang.web.illinois.edu/" img_title="Yiren" img_class="img-fluid rounded z-depth-1" %}
 
         {% include student.html name="Yijun Liu" position="PhD Student, CS" time="2024-" img_path="assets/img/yijun.jpg" img_title="Yijun" img_class="img-fluid rounded z-depth-1" %}
 
         {% include student.html name="Indu Panigrahi" href="https://ind1010.github.io/" position="PhD Student, CS" time="2025-" img_path="assets/img/indu.jpg" img_title="Indu" img_class="img-fluid rounded z-depth-1" %}
         
-        {% include student.html name="Yifan Song" href="https://www.linkedin.com/in/yifan-song-osucmuuiuc/" position="PhD Student, CS" time="2024-" img_path="assets/img/yifan2.jpg" img_title="Yijun" img_class="img-fluid rounded z-depth-1" %}
+        {% include student.html name="Yifan Song" href="https://www.linkedin.com/in/yifan-song-osucmuuiuc/" position="PhD Student, CS" time="2024-" img_path="assets/img/yifan2.jpg" img_title="Yifan"  co_advised="Brian Bailey" co_advised_href="https://orchid.cs.illinois.edu/people/bailey/index.html" img_class="img-fluid rounded z-depth-1" %}
 
         {% include student.html name="Lechen Zhang" href="https://leczhang.com/" position="PhD Student, CS" time="2025-" img_path="assets/img/lechen.jpg" img_title="Lechen" img_class="img-fluid rounded z-depth-1" %}
 
