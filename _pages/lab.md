@@ -43,7 +43,6 @@ I work with a wonderful set of students at UIUC and beyond.
 
 <div class="lab">
     <div class="row">
-        co_advised_href
         {% include student.html name="Ziheng Huang" href="https://www.linkedin.com/in/ziheng-huang-52619a1a5/" position="PhD Student, CS" time="2024-"  co_advised="Hari Sundaram" co_advised_href="https://sundaram.cs.illinois.edu/" img_path="assets/img/Ziheng.jpg" img_title="Ziheng" img_class="img-fluid rounded z-depth-1" %}
 
         {% include student.html name="Michelle Huang" href="https://mhuang412.github.io/" position="PhD Student, CS" time="2025-" img_path="assets/img/michelle.jpg" co_advised="Koustuv Saha" co_advised_href="https://koustuv.com/" img_title="Michelle" img_class="img-fluid rounded z-depth-1" %}

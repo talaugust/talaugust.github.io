@@ -5,7 +5,7 @@
     </a>
         <p class="m-0"> <strong> {{ include.position }}</strong> </p>
         {% if include.co_advised %}
-            <p class="m-0"> Co-advised with <a {% if include.co_advised_href %}href="{{ include.co_advised_href }}"{% else %}href="#"{% endif %}> include.co_advised </a> </p>
+            <p class="m-0"> Co-advised with <a {% if include.co_advised_href %}href="{{ include.co_advised_href }}"{% else %}href="#"{% endif %}> {{ include.co_advised }} </a> </p>
         {% endif %}
         <p class="m-0"> {{ include.time }} </p>
     
