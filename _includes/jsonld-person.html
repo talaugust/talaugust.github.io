@@ -1,0 +1,23 @@
+{%- assign a = site.author -%}
+{%- if a and page.url == "/" -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": {{ a.name | jsonify }},
+  "jobTitle": {{ a.job_title | jsonify }},
+  "url": {{ a.homepage | jsonify }},
+  "image": {{ a.image | absolute_url | jsonify }},
+  "affiliation": {
+    "@type": "Organization",
+    "name": {{ a.affiliation | jsonify }}
+  },
+  {%- if a.keywords and a.keywords.size > 0 -%}
+  "keywords": {{ a.keywords | jsonify }},
+  {%- endif -%}
+  {%- if a.same_as and a.same_as.size > 0 -%}
+  "sameAs": {{ a.same_as | jsonify }}
+  {%- endif -%}
+}
+</script>
+{%- endif -%}

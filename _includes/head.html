@@ -16,6 +16,9 @@
     <!-- Code Syntax Highlighting -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/{{ site.highlight_theme_light | append: '.css' }}" media="" id="highlight_theme_light" />
 
+    <!-- Added for schema person -->
+    {% include jsonld-person.html %}
+
     {% if page.toc and page.toc.sidebar %}
     <!-- Sidebar Table of Contents -->
     <link href="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.css" rel="stylesheet" />
