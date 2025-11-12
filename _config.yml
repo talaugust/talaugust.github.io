@@ -6,7 +6,7 @@ title: Tal August # the website title (if blank, full name will be used instead)
 first_name: Tal
 middle_name:
 last_name: August
-email: talaugust6@gmail.com
+email: taugust@illinois.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   HCI + NLP. Designing language for different people.
 footer_text: >
@@ -20,7 +20,7 @@ icon: favicon.png  # the emoji used as the favicon (alternatively, provide image
 
 url: https://talaugust.github.io # the base hostname & protocol for your site
 baseurl: / # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: True # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -45,7 +45,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -89,7 +89,7 @@ osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
-work_url: # work page URL
+work_url: https://siebelschool.illinois.edu/about/people/faculty/taugust # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
@@ -115,7 +115,7 @@ contact_note: >
 google_analytics: G-E55PL1WX6J # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
-google_site_verification:  # your google-site-verification ID (Google Search Console)
+google_site_verification: Wdch0fRnyQza5yZeRARBd08l3WcWot1bnppBosg3A9I # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
