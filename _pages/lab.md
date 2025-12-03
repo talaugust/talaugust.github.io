@@ -47,8 +47,7 @@ I work with a wonderful set of students at UIUC and beyond.
 
         {% include student.html name="Michelle Huang" href="https://mhuang412.github.io/" position="PhD Student, CS" time="2025-" img_path="assets/img/michelle.jpg" co_advised="Koustuv Saha" co_advised_href="https://koustuv.com/" img_title="Michelle" img_class="img-fluid rounded z-depth-1" %}
 
-
-        {% include student.html name="Yiren Liu" href="https://www.linkedin.com/in/yiren-liu-478730190" position="PhD Student, iSchool" time="2024-" img_path="assets/img/Yiren.jpg" co_advised="Yun Huang" co_advised_href="https://yunhuang.web.illinois.edu/" img_title="Yiren" img_class="img-fluid rounded z-depth-1" %}
+        {% include student.html name="Yiren Liu" href="https://www.linkedin.com/in/yiren-liu-478730190" position="PhD Student, iSchool" time="2024-" img_path="assets/img/Yiren.jpg" advised="Yun Huang" co_advised_href="https://yunhuang.web.illinois.edu/" img_title="Yiren" img_class="img-fluid rounded z-depth-1" %}
 
         {% include student.html name="Yijun Liu" position="PhD Student, CS" time="2024-" img_path="assets/img/yijun.jpg" img_title="Yijun" img_class="img-fluid rounded z-depth-1" %}
 
@@ -74,7 +73,7 @@ I work with a wonderful set of students at UIUC and beyond.
     <p class="h5"> Yiren Liu </p>
     <p> Yiren Liu </p>
 </div> -->
-
+<!-- 
  <div>
     {% include former_student.html name="Yue Guo" href="https://www.linkedin.com/in/yue-guo-34332a12b/" time="2022-2024" position="PhD, UW" next_position="Assistant Professor, UIUC iSchool"  %}
 
@@ -89,5 +88,5 @@ I work with a wonderful set of students at UIUC and beyond.
     {% include former_student.html name="Lauren Kim" href="https://www.linkedin.com/in/laur-kim/" time="2019-2020" position="Undergraduate, UW" next_position="Software Engineer, Meta"  %}
 
     {% include former_student.html name="Aishwarya Nirmal" href="https://www.linkedin.com/in/aishwaryanirmal/" time="2018-2019" position="Masters, UW" next_position="Software Engineer, Airbnb"  %}
-</div>
+</div> -->
 

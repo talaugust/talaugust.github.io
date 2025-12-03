@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Honored to be make the List Teachers Ranked as Excellent by Their Students! I had a great time teaching my [class](https://talaugust.github.io/CS598LIC-Spr2025/). 
+Honored to make the List of Teachers Ranked as Excellent by Their Students! I had a great time teaching my [class](https://talaugust.github.io/CS598LIC-Spr2025/). 
