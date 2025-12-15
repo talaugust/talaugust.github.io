@@ -47,7 +47,7 @@ I work with a wonderful set of students at UIUC and beyond.
 
         {% include student.html name="Michelle Huang" href="https://mhuang412.github.io/" position="PhD Student, CS" time="2025-" img_path="assets/img/michelle.jpg" co_advised="Koustuv Saha" co_advised_href="https://koustuv.com/" img_title="Michelle" img_class="img-fluid rounded z-depth-1" %}
 
-        {% include student.html name="Yiren Liu" href="https://www.linkedin.com/in/yiren-liu-478730190" position="PhD Student, iSchool" time="2024-" img_path="assets/img/Yiren.jpg" advised="Yun Huang" co_advised_href="https://yunhuang.web.illinois.edu/" img_title="Yiren" img_class="img-fluid rounded z-depth-1" %}
+        {% include student.html name="Yiren Liu" href="https://www.linkedin.com/in/yiren-liu-478730190" position="PhD Student, iSchool" time="2024-" img_path="assets/img/Yiren.jpg" advised="Yun Huang" advised_href="https://yunhuang.web.illinois.edu/" img_title="Yiren" img_class="img-fluid rounded z-depth-1" %}
 
         {% include student.html name="Yijun Liu" position="PhD Student, CS" time="2024-" img_path="assets/img/yijun.jpg" img_title="Yijun" img_class="img-fluid rounded z-depth-1" %}
 
