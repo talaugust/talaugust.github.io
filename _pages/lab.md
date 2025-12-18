@@ -67,7 +67,7 @@ I work with a wonderful set of students at UIUC and beyond.
 
 <hr>
 
-## Alumni
+<!-- ## Alumni -->
 
 <!-- <div class="row ml-3">
     <p class="h5"> Yiren Liu </p>
