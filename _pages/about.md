@@ -16,8 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an assistant professor at the [University of Illinois at Urbana-Champaign](https://cs.illinois.edu/). I study how to adapt language to different audiences, with a focus on knowledge intensive domains like science, health and legal communication. I conduct empirical analyses to study how changes in language will affect different audiences, and I build intelligent reading and writing systems for augmenting our language in new ways. The long term goal of my research is to improve our communication with---and understanding of---one another through technology. 
+I am an assistant professor at the [University of Illinois at Urbana-Champaign](https://cs.illinois.edu/). 
 
+The overarching goal of my research is to create human-centric artificial intelligence (AI) systems that reduce inequalities in knowledge access. I pursue this goal by (1) evaluating AI systems' ability to communicate specialized knowledge to different people (e.g., explaining a contract clause to people with different education levels) and (2) building interactive and intelligent systems to augment people's ability to read, write, and listen in knowledge intensive settings like medicine, law, and science. 
 
 I previously was a Young Investigator at the [Allen Institute for AI](https://allenai.org/). I received my PhD at the Paul G. Allen School for Computer Science and Engineering at the University of Washington, advised by [Katharina Reinecke](https://homes.cs.washington.edu/~reinecke/) and [Noah Smith](https://homes.cs.washington.edu/~nasmith/).  
 
