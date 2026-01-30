@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: A long announcement with details
 date: 2023-1-30 16:11:00-0400
@@ -6,7 +6,7 @@ inline: true
 related_posts: false
 ---
 
-Excited to be returning to the [Allen Institute for AI](https://allenai.org/) as a Young Investigator. 
+Excited to be returning to the [Allen Institute for AI](https://allenai.org/) as a Young Investigator.  -->
 
 <!-- ***
 
