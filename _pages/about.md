@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an assistant professor at the [University of Illinois at Urbana-Champaign](https://cs.illinois.edu/). 
+I am an assistant professor at the [University of Illinois at Urbana-Champaign](https://cs.illinois.edu/), where I lead the [Language Interaction Lab](https://languageinteraction.github.io/).
 
 The overarching goal of my research is to create human-centric artificial intelligence (AI) systems that reduce inequalities in knowledge access. I pursue this goal by (1) evaluating AI systems' ability to communicate specialized knowledge to different people (e.g., explaining a contract clause to people with different education levels) and (2) building interactive and intelligent systems to augment people's ability to read, write, and listen in knowledge intensive settings like medicine, law, and science. 
 

@@ -18,7 +18,7 @@ horizontal: false
 </style>
 
 
-If you are interested in working with me, instead of emailing me please fill out [this interest survey](https://forms.gle/5h8HPEsdm6DBsLwy9). This is the best way of getting in touch with me.
+<!-- If you are interested in working with me, instead of emailing me please fill out [this interest survey](https://forms.gle/5h8HPEsdm6DBsLwy9). This is the best way of getting in touch with me. -->
 
 
 
@@ -38,7 +38,7 @@ I love working with motivated students at the intersection of HCI and NLP. My fo
 
 ## Students
 
-I work with a wonderful set of students at UIUC and beyond. 
+I work with a wonderful set of students at UIUC and beyond, for more information on each, you can click on their websites below, or visit the [Language Interaction Lab page](https://languageinteraction.github.io/)!
 
 
 <div class="lab">
