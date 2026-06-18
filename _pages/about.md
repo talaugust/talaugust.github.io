@@ -30,7 +30,17 @@ My CV: [PDF](assets/pdf/August_CV.pdf).
 If you are interested in working with me, instead of emailing me please fill out [this interest survey](https://forms.gle/5h8HPEsdm6DBsLwy9). As much as I would like to, I rarely have time to respond to emails from prospective students. The interest form is the best way of getting in touch with me.
 
 
-**Ph.D. student applicants**: I do not plan to recruit any new students for Fall 2026.
+**Ph.D. student applicants**: I am recruiting students to join my group at UIUC Computer Science starting Fall 2027. I am particularly interested in students with a strong background in AI/ML who are interested in human-centered problems, specifically in domains like Law and Medicine (prior domain experience is a plus, but not required).
+
+How to Apply:
+* Apply directly through the [UIUC CS PhD application portal](https://siebelschool.illinois.edu/admissions/graduate/applications-process-requirements). 
+* To ensure your application reaches my desk, please list my name in the "Faculty Interest" section of the application form AND in your Statement of Purpose (SOP), also please highlight your relevant interests in your SOP.
+
+<!-- While I cannot answer individual emails about applications, you can also submit your interest through my [interest form](https://forms.gle/eqaM7vTY9Lsx9Ums9) -->
+
+
+
+ <!-- I do not plan to recruit any new students for Fall 2026. -->
 
 
 
