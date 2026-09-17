@@ -127,6 +127,13 @@ blockquote {
       margin: 0;
     }
   }
+
+  .photo-credit {
+    margin-top: 4px;
+    font-size: 0.7rem;
+    color: var(--global-text-color-light);
+    text-align: right;
+  }
 }
 
 .profile.float-right {

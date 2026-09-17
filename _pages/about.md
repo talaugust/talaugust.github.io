@@ -8,6 +8,7 @@ profile:
   align: right
   image: Tal_August_new.jpeg
   image_circular: false # crops the image to make it circular
+  photo_credit: Mike Thomas
   address: >
 
 news: true  # includes a list of news items

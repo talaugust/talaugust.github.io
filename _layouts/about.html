@@ -28,6 +28,11 @@ layout: default
               class=profile_image_class
               alt=page.profile.image -%}
             {% endif -%}
+            {%- if page.profile.photo_credit %}
+            <div class="photo-credit">
+              Photo: {{ page.profile.photo_credit }}
+            </div>
+            {%- endif %}
             {%- if page.profile.address %}
             <div class="address">
               {{ page.profile.address }}
