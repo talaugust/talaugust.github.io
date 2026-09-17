@@ -231,6 +231,12 @@ blockquote {
   display: inline-block;
   margin: 0;
 }
+.profile .photo-credit {
+  margin-top: 4px;
+  font-size: 0.7rem;
+  color: var(--global-text-color-light);
+  text-align: right;
+}
 
 .profile.float-right {
   margin-left: 1rem;
