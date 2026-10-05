@@ -24,8 +24,6 @@ I previously was a Young Investigator at the [Allen Institute for AI](https://al
 
 
 ### Recruitment
-
-#### PhD
 **I am recruiting PhD students for Fall 2027**. 
 I'm looking for hard-working and curious students excited about **human-AI interaction**. Some topics I'm currently thinking about: personalization, real-world AI evaluations, continuous learning, and small language models. Take a look at [our lab](https://languageinteraction.github.io/) to get a sense of the work we do. 
 
