@@ -1,0 +1,2 @@
+# Semantic Scholar papers for check_new_papers.py to skip.
+# One S2 paperId or exact paper title per line (the script prints the paperId).
