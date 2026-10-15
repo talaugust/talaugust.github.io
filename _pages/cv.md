@@ -2,7 +2,8 @@
 layout: cv
 permalink: /cv/
 title: cv
-nav: false
-nav_order: 4
+nav: true
+nav_order: 6
+redirect: /assets/pdf/August_CV.pdf
 cv_pdf: August_CV.pdf
 ---

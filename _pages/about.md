@@ -20,20 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am an assistant professor at the [University of Illinois at Urbana-Champaign](https://cs.illinois.edu/), where I lead the [Language Interaction Lab](https://languageinteraction.github.io/). **I study how AI systems can make information accessible to more people.** I pursue this goal by (1) evaluating AI systems' ability to communicate specialized information to different people and (2) creating new interactions that augment people's ability to communicate (read, write, and listen). 
 
-I previously was a Young Investigator at the [Allen Institute for AI](https://allenai.org/). I received my PhD at the [University of Washington](https://www.cs.washington.edu), advised by [Katharina Reinecke](https://homes.cs.washington.edu/~reinecke/) and [Noah A. Smith](https://homes.cs.washington.edu/~nasmith/). My CV: [PDF](assets/pdf/August_CV.pdf).
-
-
-### Recruitment
-**I am recruiting PhD students for Fall 2027**. 
-I'm looking for hard-working and curious students excited about **human-AI interaction**. Some topics I'm currently thinking about: personalization, real-world AI evaluations, continuous learning, and small language models. Take a look at [our lab](https://languageinteraction.github.io/) to get a sense of the work we do. 
-
-How to Apply:
-* Apply directly through the [UIUC CS PhD application portal](https://siebelschool.illinois.edu/admissions/graduate/applications-process-requirements). 
-* To ensure your application reaches my desk, please list my name in the "Faculty Interest" section of the application form AND in your Statement of Purpose (SOP). 
-* I will reach out to schedule interviews after the application deadline. Instead of emailing me, please fill out [this PhD interest survey](https://forms.gle/5h8HPEsdm6DBsLwy9).
-
-#### Undergraduate and Masters (at UIUC)
-Please read this [guide for applying](https://docs.google.com/document/d/1JrZPUkYNT60UTcBINhxDQ21O7aoXqxOciOeWEnEdJQQ/edit?usp=sharing) to our lab and fill out this [interest form](https://forms.gle/Yjn5SYj8kNyZu5tw9). 
+Interested in joining the lab? See the [students page](/students/) for how to apply.
 
 <!-- #### Interested in working with me? 
 
