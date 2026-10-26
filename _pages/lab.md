@@ -87,13 +87,13 @@ I work with a wonderful set of students at UIUC and beyond, for more information
 
 <hr>
 
-## Lab Alumni
+<!-- ## Lab Alumni -->
 
 <!-- Rule: anyone advised or co-advised in the lab at UIUC. Add a "PhD" group above this one once the first PhD graduates. -->
-<div class="alumni">
+<!-- <div class="alumni">
     <p class="h6 mt-3 mb-2">Masters &amp; Undergraduate</p>
     {% include former_student.html name="Sneha Sundar" href="https://snehasund.github.io/" time="2024-2026" position="Undergraduate, CS" %}
-</div>
+</div> -->
 
 <!-- ## Former Students
 
